@@ -7,6 +7,9 @@
 
 This project is done for ALMABETTER Final Submission for a "FRONT END PROJECT" year 2023
 
+# WEB DEPLOYMENT 
+https://adityaadi-resume-builder.onrender.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
