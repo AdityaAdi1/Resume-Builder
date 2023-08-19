@@ -1,7 +1,7 @@
 # TEAM MEMBERS NAME 
 1) Aditya Verma
 2) Abhishek Verma
-3) Deepti Yadav
+3) Deeti Yadav
 
 # PROJECT DETAILS
 
