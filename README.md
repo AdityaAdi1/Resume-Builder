@@ -1,3 +1,12 @@
+# TEAM MEMBERS NAME 
+1) Aditya Verma
+2) Abhishek Verma
+3) Deepti Yadav
+
+# PROJECT DETAILS
+
+This project is done for ALMABETTER Final Submission for a "FRONT END PROJECT" year 2023
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
